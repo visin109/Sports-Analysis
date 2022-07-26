@@ -1,5 +1,2 @@
-# Sports-Analysis
-This project is about IPL analysis. Performance Statistics of each team has been visualized for each season and Player statistics has been calculated for every player.
-Data Description: Two datasets were used for this project. Matches.csv consists of Every team and the number of extras given by that team for every season.
-Deliveries.csv has information about every delivery of a bowler in every over for each player in the Playing Team.
-Some cricket statistics such as strike rate,winning probablity of each team,top players with many wickets,runs,sixes,fours etc are calculated in this project.
+Dream-11:
+I created a Dream 11 Team players by calculating various statistics of a player and used it to Classify them into all-rounders, batsman, and bowlers and picked a powerful team of 11 cricket players. Statistics such as Average, Strike rate, the highest number of runs, sixes, fours, number of '50s,100's, Highest wicket-takers, and addition which team have more winning probability, etc. were used for team creation and have been analyzed, visualized, and summarized in detail in this project.
